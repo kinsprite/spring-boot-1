@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "rest-demo"
+		},
+		{
+			"name": "dev-demo",
+			"path": "dev-demo"
+		},
+		{
+			"name": "webflux-demo",
+			"path": "webflux-demo"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
